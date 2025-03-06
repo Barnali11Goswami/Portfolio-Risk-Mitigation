@@ -1,5 +1,4 @@
-```
-# Portfolio Risk Management using Futures
+echo "# Portfolio Risk Management using Futures
 
 ## Overview
 This project focuses on managing portfolio risk using futures contracts. It includes analysis of hedging strategies, risk mitigation techniques, and performance evaluation based on historical market data.
@@ -34,8 +33,13 @@ This project focuses on managing portfolio risk using futures contracts. It incl
 
 ## Example Calculation
 ### **Hedge Ratio Formula**
-```math
+\`\`\`math
 Hedge Ratio = (Portfolio Value × Beta) / Futures Contract Value
+\`\`\`
 
-```
+This formula helps determine the number of futures contracts required to hedge a portfolio.
 
+
+## Contact
+For inquiries, reach out via [LinkedIn](https://www.linkedin.com/in/yourprofile/) or email at [your.email@example.com](mailto:your.email@example.com).
+" > README.md
